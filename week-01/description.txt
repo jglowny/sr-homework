@@ -1,0 +1,24 @@
+Zadanie 1 
+Napisz program, który będzie posiadał stałą YEAR z określoną wartością (wybierz dowolną wartość, nie musi być aktualny rok). Program na konsoli powinien wyświetlić informację, czy rok jest przestępny.
+ 
+Zadanie 2
+Napisz program, który wylosuje liczbę całkowitą pomiędzy 1 a 10. Następnie program pozwoli użytkownikowi wpisać w konsoli swój “strzał”. Jeśli użytkownik zgadnie, to program wyświetli informację “Udało się”, w przeciwnym razie: “Spróbuj ponownie”.
+ 
+Tips: możesz skorzystać z readline (https://nodejs.org/api/readline.html) lub prompt (https://www.npmjs.com/package/prompt).
+ 
+Zadanie 3
+
+    Stwórz nowy projekt w JavaScript za pomocą npm init
+    Stwórz plik time.js
+    W pliku time.js na konsoli wyświetl aktualną datę i czas (skorzystaj z obiektu Date)
+    Dodaj skrypt “now” do sekcji “scripts” w package.json
+    Niech twoja aplikacja działa na polecenie: npm run now i wyświetla aktualny czas (na podstawie instrukcji z time.js)
+
+*Rozszerzenie:
+
+    Stwórz nowy projekt w JavaScript za pomocą npm init
+    Stwórz plik time.js
+    Doinstaluj bibliotekę moment (https://momentjs.com/ lub https://date-fns.org/)
+    W pliku time.js na konsoli wyświetl aktualną datę i czas
+    Dodaj skrypt “now” do sekcji “scripts” w package.json
+    Niech twoja aplikacja działa na polecenie: npm now i wyświetla aktualny czas (na podstawie instrukcji z time.js)
