@@ -1,0 +1,11 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "time",
+  "main": "time.js",
+  "author": "JG",
+  "license": "MIT",
+  "scripts": {
+    "now": "time"
+  }
+}
